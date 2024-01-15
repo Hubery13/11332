@@ -1,0 +1,3 @@
+falsk
+gunicorn
+google-generativeai
